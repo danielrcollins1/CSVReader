@@ -1,2 +1,2 @@
 # CSVReader
-Simple CSV file reader
+Simple CSV file reader in C++
